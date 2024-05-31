@@ -1,0 +1,4 @@
+logging:
+         level:
+ 
+            com.ciq.controller: "debug"
