@@ -1,0 +1,3 @@
+ logging:
+   level:
+     com.ciq.test: "debug"
