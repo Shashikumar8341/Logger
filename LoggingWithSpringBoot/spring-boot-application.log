@@ -1,0 +1,36 @@
+2024-05-31 10:43:22 INFO  c.c.LoggingWithSpringBootApplication - Starting LoggingWithSpringBootApplication using Java 17.0.3 with PID 10044 (F:\springboot\LoggingWithSpringBoot\target\classes started by shiva.netha in F:\springboot\LoggingWithSpringBoot)
+2024-05-31 10:43:22 INFO  c.c.LoggingWithSpringBootApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:43:22 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-31 10:43:22 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-31 10:43:22 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-31 10:43:22 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-31 10:43:22 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 155 ms
+2024-05-31 10:43:22 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-31 10:43:22 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-05-31 10:43:22 INFO  c.c.LoggingWithSpringBootApplication - Started LoggingWithSpringBootApplication in 0.454 seconds (process running for 222.813)
+2024-05-31 10:43:22 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-05-31 10:43:42 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-31 10:43:42 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-31 10:43:42 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-05-31 10:43:42 INFO  com.ciq.controller.LogController - An info message
+2024-05-31 10:43:42 WARN  com.ciq.controller.LogController - A warn message
+2024-05-31 10:43:42 ERROR com.ciq.controller.LogController - An error message
+2024-05-31 10:46:33 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-05-31 10:46:33 INFO  c.c.LoggingWithSpringBootApplication - Starting LoggingWithSpringBootApplication using Java 17.0.3 with PID 10044 (F:\springboot\LoggingWithSpringBoot\target\classes started by shiva.netha in F:\springboot\LoggingWithSpringBoot)
+2024-05-31 10:46:33 INFO  c.c.LoggingWithSpringBootApplication - No active profile set, falling back to 1 default profile: "default"
+2024-05-31 10:46:33 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2024-05-31 10:46:33 INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-05-31 10:46:33 INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.24]
+2024-05-31 10:46:33 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-05-31 10:46:33 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 146 ms
+2024-05-31 10:46:33 INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-05-31 10:46:33 INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2024-05-31 10:46:33 INFO  c.c.LoggingWithSpringBootApplication - Started LoggingWithSpringBootApplication in 0.24 seconds (process running for 413.3)
+2024-05-31 10:46:33 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-05-31 10:46:39 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-05-31 10:46:39 INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-05-31 10:46:39 INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-05-31 10:46:39 INFO  com.ciq.controller.LogController - An info message
+2024-05-31 10:46:39 WARN  com.ciq.controller.LogController - A warn message
+2024-05-31 10:46:39 ERROR com.ciq.controller.LogController - An error message
+2024-05-31 10:48:15 INFO  o.s.b.a.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin - Application shutdown requested.
